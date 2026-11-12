@@ -1,3 +1,3 @@
 #Presentación
 
-Esta es una presentación de la documentación a realziar con mkdocs.
+Esta documentación ha sido publicacda mediante GitHub Pages
