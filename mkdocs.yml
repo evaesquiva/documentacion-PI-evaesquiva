@@ -1,0 +1,24 @@
+site_name: Documentacion PI
+theme:
+  name: material
+  language: es
+  features:
+    - navigation.sections
+    - navigation.expand
+    - navigation.top
+
+nav:
+  - Inicio: index.md
+  - Presentación: presentacion.md
+  - Caracterización del reto: caracterizacion.md
+  - Análisis y requisitos: analisis-requisitos.md
+  - Diseño de la solución: diseno-solucion.md
+  - Planificación: planificacion.md
+  - Modelo de datos: modelo-datos.md
+  - Arquitectura: arquitectura.md
+  - Desarrollo: desarrollo.md
+  - Pruebas: pruebas.md
+  - Seguridad: seguridad.md
+  - Puesta en marcha: puesta-marcha.md
+  - Manuales: manuales.md
+  - Conclusiones: conclusiones.md
